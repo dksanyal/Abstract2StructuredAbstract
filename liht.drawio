@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T03:53:49.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="89cMmaMaFLfQVFpkRXaW" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-23T03:54:20.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="oGhipfvkR88J2g3zzSaU" version="16.4.5" type="github">
   <diagram id="FdcYQjDbwHpzMvA2prWP" name="Page-1">
     <mxGraphModel dx="989" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -422,7 +422,7 @@
             <mxPoint x="670" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6voSHcXXVBX3k06lsxQZ-191" value="Embeddings of sentences in an abstract" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6voSHcXXVBX3k06lsxQZ-191" value="Embeddings of sentences in abstract" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="686" y="879" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6voSHcXXVBX3k06lsxQZ-192" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
